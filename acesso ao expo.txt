@@ -1,0 +1,6 @@
+liberando acesso o expo
+
+Liberar:
+Set-ExecutionPolicy Unrestricted 
+Bloquear:
+Set-ExecutionPolicy Restricted 
